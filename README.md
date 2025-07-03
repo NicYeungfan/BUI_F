@@ -53,5 +53,5 @@ If needed, you may contact the author to request example data for academic purpo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/NicYeungfan/NicYeungfan.git
+   git clone[ https://github.com/NicYeungfan/NicYeungfan.git](https://github.com/NicYeungfan/BUI_F)
 
