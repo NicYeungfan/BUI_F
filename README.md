@@ -2,10 +2,10 @@
 Battery_theory_Ultra_new
 # Note: 
 The datasets used in this study are not publicly available due to proprietary or confidentiality reasons. Example or mock data can be provided upon request for academic purposes.
-# Real-Time 3D Ultrasound Imaging for Lithium-Ion Battery Diagnosis
+
 
 This repository contains original MATLAB code used in the research manuscript:
-**"Real-Time 3D Imaging-Diagnosis of Rechargeable Batteries Based on Physics-informed Ultrasound Model"**  
+**"Version for submission"**  
 by Nic Yeung Fan (2025).
 
 ---
